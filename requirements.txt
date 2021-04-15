@@ -1,0 +1,5 @@
+matplotlib
+bs4
+pandas
+nltk
+requests
